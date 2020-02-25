@@ -6,4 +6,4 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Develop-Packt/Introduction-to-Machine-Learning-with-Keras/pulls)
 
 ## About Introduction-to-Machine-Learning-with-Keras
-This module is part of the Deep Learning with Keras learning path – complete this path to learn how to apply deep learning algorithms in Python's Keras library.
+This module is part of the Deep Learning with Keras learning path – complete this path to learn how to apply deep learning algorithms in Python's Keras library. Explore basic machine learning algorithms and learn to build, train, and evaluate Artificial Neural Networks in Keras.
