@@ -1,4 +1,4 @@
-# Introduction-to-Machine-Learning-with-Keras
+# Introduction to Machine Learning with Keras
 
 [![GitHub issues](https://img.shields.io/github/issues/Develop-Packt/Introduction-to-Machine-Learning-with-Keras.svg)](https://github.com/Develop-Packt/Introduction-to-Machine-Learning-with-Keras/issues)
 [![GitHub forks](https://img.shields.io/github/forks/Develop-Packt/Introduction-to-Machine-Learning-with-Keras.svg)](https://github.com/Develop-Packt/Introduction-to-Machine-Learning-with-Keras/network)
